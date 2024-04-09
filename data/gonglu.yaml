@@ -15,6 +15,3 @@ test: # test images (optional)
 # Classes
 names:
   0: car
-
-# Download script/URL (optional)
-download: https://ultralytics.com/assets/coco128.zip
